@@ -8,6 +8,11 @@
           <include name="testcase1"/>
         </methods>
       </class> <!-- com.yr.testdata.dataProviderTest -->
+      <class name="com.yr.day1.TestNGDemo1">
+        <methods>
+          <include name="testCase1"/>
+        </methods>
+      </class>
     </classes>
   </test> <!-- Selenium_Demo1701 -->
 </suite> <!-- Default Suite -->
